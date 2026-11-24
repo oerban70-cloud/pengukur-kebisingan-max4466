@@ -8,7 +8,7 @@ Tenang, Normal, atau Bising. Begitu angka melewati 70 dB, buzzer
 berbunyi dan LED merah menyala.
 
 Video penjelasan (60 detik):
-link menyusul setelah upload
+https://www.youtube.com/shorts/9XCiS1DQU9M
 
 ## Penting: soal angka dB
 
